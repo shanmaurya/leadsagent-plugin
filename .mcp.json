@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "leadsagent": {
+      "type": "http",
+      "url": "https://leadsagent.io/mcp/v1"
+    }
+  }
+}

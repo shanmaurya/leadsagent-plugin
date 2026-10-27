@@ -1,0 +1,17 @@
+{
+  "name": "leadsagent",
+  "owner": {
+    "name": "LeadsAgent Team",
+    "email": "support@leadsagent.io"
+  },
+  "metadata": {
+    "description": "The official LeadsAgent plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "leadsagent",
+      "source": "./",
+      "description": "Find local businesses, research their contact details, check emails and websites, and export ranked lead lists."
+    }
+  ]
+}

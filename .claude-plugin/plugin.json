@@ -1,0 +1,24 @@
+{
+  "name": "leadsagent",
+  "version": "1.0.2",
+  "description": "Find local businesses from 250M+ live business listings, research their contact details, check emails and websites, and export lead lists. Connect your LeadsAgent account to check credits, start and follow research tasks, and read saved results. Each business researched costs one lead credit; email finding, verification and checks cost no additional credits.",
+  "author": {
+    "name": "LeadsAgent Team",
+    "email": "support@leadsagent.io",
+    "url": "https://leadsagent.io"
+  },
+  "homepage": "https://leadsagent.io",
+  "keywords": [
+    "leads",
+    "local businesses",
+    "contact research",
+    "sales",
+    "lead generation"
+  ],
+  "displayName": "LeadsAgent",
+  "icon": "./assets/leadsagent.png",
+  "documentationUrl": "https://leadsagent.io/documentation/claude",
+  "supportUrl": "https://leadsagent.io/contact-us",
+  "privacyPolicyUrl": "https://leadsagent.io/privacy",
+  "termsOfServiceUrl": "https://leadsagent.io/terms"
+}
